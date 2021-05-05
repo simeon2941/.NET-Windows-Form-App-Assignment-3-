@@ -1,0 +1,15 @@
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\bin\Debug\netcoreapp3.1\ErindSimeon_Assignment3.exe
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\bin\Debug\netcoreapp3.1\ErindSimeon_Assignment3.deps.json
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\bin\Debug\netcoreapp3.1\ErindSimeon_Assignment3.runtimeconfig.json
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\bin\Debug\netcoreapp3.1\ErindSimeon_Assignment3.runtimeconfig.dev.json
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\bin\Debug\netcoreapp3.1\ErindSimeon_Assignment3.dll
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\bin\Debug\netcoreapp3.1\ErindSimeon_Assignment3.pdb
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.Form1.resources
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.csproj.GenerateResource.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.AssemblyInfoInputs.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.AssemblyInfo.cs
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.dll
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.pdb
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.genruntimeconfig.cache
+C:\Users\SimeonPc\Desktop\Spring2021\CSCI-473-Net Programming\ErindSimeon_Assignment3\ErindSimeon_Assignment3\obj\Debug\netcoreapp3.1\ErindSimeon_Assignment3.csprojAssemblyReference.cache
